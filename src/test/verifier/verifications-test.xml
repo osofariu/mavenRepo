@@ -1,0 +1,7 @@
+<verifications>
+  <files>
+    <file>
+      <location>src/test/verifier/verifications-test.xml</location>
+    </file>
+  </files>
+</verifications>
